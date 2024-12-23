@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "image-processor": "./index.js"
+    "picsart": "./index.js"
   },
   "dependencies": {
     "axios": "^1.7.7",

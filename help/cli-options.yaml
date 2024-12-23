@@ -3,7 +3,7 @@ version: '1.0.0'
 
 helpOption:
   flags: '-h, --help'
-  description: 'Display help for the image-processor CLI tool'
+  description: 'Display help for the picsart CLI tool'
 
 commands:
   removebg:

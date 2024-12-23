@@ -14,7 +14,7 @@ A Command Line Interface (CLI) tool for removing backgrounds and upscaling image
 1. **Clone this repository**:
     ```bash
     git clone https://github.com/eax-academy/cli-plugin
-    cd image-processor-cli
+    cd picsart-cli
     ```
 2. **Install the dependencies**:
     ```bash
@@ -22,7 +22,7 @@ A Command Line Interface (CLI) tool for removing backgrounds and upscaling image
     ```
 
 ## Usage
-The `image-processor` CLI provides two primary commands:
+The `picsart` CLI provides two primary commands:
 1. `removebg`: Remove background from an image.
 2. `upscale`: Upscale an image to improve quality.
 

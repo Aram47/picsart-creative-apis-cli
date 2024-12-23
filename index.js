@@ -15,7 +15,7 @@ const program = new Command();
 const cliOptions = loadCliOptions();
 
 program
-  .name('image-processor')
+  .name('picsart')
   .description(cliOptions.description)
   .version(cliOptions.version)
   .helpOption(cliOptions.helpOption.flags, cliOptions.helpOption.description);
