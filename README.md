@@ -18,8 +18,8 @@ A Command Line Interface (CLI) tool for removing backgrounds and upscaling image
 ## Installation
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/eax-academy/cli-plugin
-    cd picsart-cli
+    git clone https://github.com/PicsArt/picsart-creative-apis-cli/
+    cd picsart
     ```
 2. **Install the dependencies**:
     ```bash
