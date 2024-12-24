@@ -5,6 +5,11 @@ A Command Line Interface (CLI) tool for removing backgrounds and upscaling image
 - **Remove Background**: Automatically removes the background from images using the Picsart API.
 - **Upscale Images**: Enhances image quality by upscaling the image with various zoom levels.
 
+## To use the Picsart CLI, ensure your system meets the following requirements:
+- **macOS:** Version 12 or higher.
+- **Linux:** Any modern distribution (e.g., Ubuntu 20.04 or higher).
+- **Windows:** Windows 10 or higher (via Windows Subsystem for Linux - WSL, or native support for CLI tools).
+
 ## Prerequisites
 - **Node.js** (v14 or higher)
 - **NPM** (comes with Node.js)
